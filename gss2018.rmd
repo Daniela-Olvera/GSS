@@ -176,7 +176,7 @@ The graph above shows us that the WORSUM scores of the people with the following
 ```{r}
 favstats(WORDSUM~DEGREE,data=GSSdata)
 ```
-The data set shows us the mean and median scores of the WORDSUM test based on the level of education of a person has earned. From this data we can see that those who earned a graduate,bachelors, or junior college level of education degree scored higher on the WORDSUM test, they scored around 9-10.Those who earned a high school degree and LT high school degree ended up scoring lower on the WORDSUM test,scoring around 7-8.
+The data set shows us the median and mean scores of the WORDSUM test based on the level of education of a person has earned. From this data we can see that those who earned a graduate,bachelors, or junior college level of education degree scored higher on the WORDSUM test, they scored around 9-10.Those who earned a high school degree and LT high school degree ended up scoring lower on the WORDSUM test,scoring around 7-8.
 
 ### Inferential Results
 
